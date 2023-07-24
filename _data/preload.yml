@@ -1,4 +1,10 @@
-images: []
+images:
+- added: '2023-07-24 13:50:26.807404'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://digitalarchive.npm.gov.tw/Antique/setJsonU?uid=2696&Dept=U
+manifests: []
 settings:
   tempuser: notenabled
   viewer: default
